@@ -1,0 +1,16 @@
+- [x] Setup Chart.yaml  
+- [x] Setup OWNERS  
+- [ ] Setup values.yaml  
+- [ ] Setup README.md  
+- [ ] Write deployment template  
+- [ ] Write Services/Ingress  
+- [ ] Write Persistant Storage template  
+---
+- [x] Push to github repo/setup github as chart repo temporarily  
+---
+- [x] Comment git repo on issue  
+---
+- [ ] Setup pre-install hook to fetch appid?  
+Inject appid into chart?  
+---
+- [ ] Prepare chart to push to github helm/charts/incubator  

@@ -1,0 +1,14 @@
+name: snipe-it
+version: 0.1.0
+appVersion: 4.6.8
+description: This is a FOSS project for asset management in IT Operations. Knowing who has which laptop, when it was purchased in order to depreciate it correctly, handling software licenses, etc.
+icon:
+keywords:
+home: http://www.snipeitapp.com/
+sources:
+- https://github.com/snipe/snipe-it
+maintainers:
+- name: Snipe
+  email: snipe@snipe.net
+- name: Nathan
+  email: coolfeather.o@gmail.com
